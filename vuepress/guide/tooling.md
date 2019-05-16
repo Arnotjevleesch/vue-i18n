@@ -12,9 +12,9 @@ And also, there are also tools from third vendors integrating Vue I18n.
 
 With this plugin, you can setup the i18n environment for the Vue application, and can support the i18n development environment.
 
-### Webapck loader
+### Webpack loader
 
-[vue-i18n-loader](https://github.com/kazupon/vue-i18n-loader) officically is provided as webpack loader.
+[vue-i18n-loader](https://github.com/kazupon/vue-i18n-loader) officially is provided as webpack loader.
 
 With this loader, you can use the `i18n` custom block in the Single file components.
 
